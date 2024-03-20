@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\.Net\\MVC-RM97890\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8A61C518-AE9D-4970-91A0-19A2C17CBDA8}|MVC-RM97890.csproj|c:\\users\\administrador\\desktop\\.net\\mvc-rm97890\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A61C518-AE9D-4970-91A0-19A2C17CBDA8}|MVC-RM97890.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A61C518-AE9D-4970-91A0-19A2C17CBDA8}|MVC-RM97890.csproj|c:\\users\\administrador\\desktop\\.net\\mvc-rm97890\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A61C518-AE9D-4970-91A0-19A2C17CBDA8}|MVC-RM97890.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A61C518-AE9D-4970-91A0-19A2C17CBDA8}|MVC-RM97890.csproj|c:\\users\\administrador\\desktop\\.net\\mvc-rm97890\\views\\emconstrucao\\emconstrucao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A61C518-AE9D-4970-91A0-19A2C17CBDA8}|MVC-RM97890.csproj|solutionrelative:views\\emconstrucao\\emconstrucao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A61C518-AE9D-4970-91A0-19A2C17CBDA8}|MVC-RM97890.csproj|c:\\users\\administrador\\desktop\\.net\\mvc-rm97890\\controllers\\emconstrucaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A61C518-AE9D-4970-91A0-19A2C17CBDA8}|MVC-RM97890.csproj|solutionrelative:controllers\\emconstrucaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 156,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,58 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\.Net\\MVC-RM97890\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\.Net\\MVC-RM97890\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T22:08:16.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmConstrucao.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\.Net\\MVC-RM97890\\Views\\EmConstrucao\\EmConstrucao.cshtml",
-              "RelativeDocumentMoniker": "Views\\EmConstrucao\\EmConstrucao.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\.Net\\MVC-RM97890\\Views\\EmConstrucao\\EmConstrucao.cshtml",
-              "RelativeToolTip": "Views\\EmConstrucao\\EmConstrucao.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T21:59:32.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmConstrucaoController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\.Net\\MVC-RM97890\\Controllers\\EmConstrucaoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmConstrucaoController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\.Net\\MVC-RM97890\\Controllers\\EmConstrucaoController.cs",
-              "RelativeToolTip": "Controllers\\EmConstrucaoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T21:57:39.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\.Net\\MVC-RM97890\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\.Net\\MVC-RM97890\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T21:32:04.292Z",
-              "EditorCaption": ""
             }
           ]
         }
