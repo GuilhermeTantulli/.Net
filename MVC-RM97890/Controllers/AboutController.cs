@@ -2,9 +2,9 @@
 
 namespace MVC_RM97890.Controllers
 {
-    public class TrabalheConoscoController : Controller
+    public class AboutController : Controller
     {
-        public IActionResult TrabalheConosco()
+        public IActionResult About()
         {
             return View();
         }

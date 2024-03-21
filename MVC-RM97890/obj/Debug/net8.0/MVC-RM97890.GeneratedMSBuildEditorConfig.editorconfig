@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Administrador\Desktop\.Net\MVC-RM97890
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Administrador/Desktop/.Net/MVC-RM97890/Views/About/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrador/Desktop/.Net/MVC-RM97890/Views/Contacts/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcQ29udGFjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Administrador/Desktop/.Net/MVC-RM97890/Views/EmConstrucao/EmConstrucao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1Db25zdHJ1Y2FvXEVtQ29uc3RydWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,20 +34,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrador/Desktop/.Net/MVC-RM97890/Views/QuemSomos/QuemSomos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlbVNvbW9zXFF1ZW1Tb21vcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Administrador/Desktop/.Net/MVC-RM97890/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Administrador/Desktop/.Net/MVC-RM97890/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrador/Desktop/.Net/MVC-RM97890/Views/TrabalheConosco/TrabalheConosco.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhYmFsaGVDb25vc2NvXFRyYWJhbGhlQ29ub3Njby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Administrador/Desktop/.Net/MVC-RM97890/Views/_ViewImports.cshtml]

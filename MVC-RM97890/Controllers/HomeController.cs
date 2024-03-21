@@ -13,8 +13,11 @@ namespace MVC_RM97890.Controllers
             _logger = logger;
         }
 
+        private User user = new User();
+
         public IActionResult Index()
         {
+            ViewBag.User = user;
             return View();
         }
 
