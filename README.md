@@ -1,6 +1,6 @@
 # CP1
 
-Projeto de MVC - C#
+Projeto de MVC - RM97890 - Guilherme Tantulli
 
 ## Requisitos
 - [x] 3 Controllers Personalizadas;
